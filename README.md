@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **wallaceleonel/wallaceleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ## My name is Wallace Leonel 👨🏾‍💻 
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
+
+### Helooo!  welcome to my profile 
+ 
+I realy like to learn 🔭
+
+Just marathon runner :weight_lifting_man: 👨🏾‍💻
+
+Currently I'm focused on:
+
+ - studyng  Cisco-python PCAP : globe_with_meridians :
+ - building Api's in python focusing on digital security
+ 
