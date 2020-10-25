@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
 
-### Helooo!  welcome to my profile 
+### Print (Helo Word!)
+ welcome to my profile
  
 I realy like to learn 🔭
 
