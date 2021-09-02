@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ## My name is Wallace Leonel 👨🏾‍💻 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceleonel)](https://github.com/wallaceleonel/github-readme-stats)
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
-
+                                                 
 ### Print (Helo Word!)
  welcome to my profile
  
