@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ## My name is _João Wallace Leonel 👨🏾‍💻 
+ ## My name is João Wallace Leonel 👨🏾‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
 
 ### Print (Helo Word!)
  
- welcome to my profile
+ _welcome to my profile_
 
    ## _Learning around : )_
 <center>
@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 
  
  
-_I realy like to learn 🔭
+_I realy like to learn 🔭_
 Just marathon runner :weight_lifting_man: 👨🏾‍💻
 
-_Currently I'm focused on:
+_Currently I'm focused on:_
 
  -  Cisco-python PCAP :globe_with_meridians:
  - building Api's in python focusing on digital security :snake:
