@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ## My name is Wallace Leonel 👨🏾‍💻 
+ ## My name is _João Wallace Leonel 👨🏾‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
  welcome to my profile
 
-   ## Learning around : )
+   ## _Learning around : )_
 <center>
 <table>
     <tr>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </table>
 </center>
 
-## Technologies
+## _Technologies_
 
 <center>
 <table align="space-between">
@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 
  
  
-I realy like to learn 🔭
+_I realy like to learn 🔭
 Just marathon runner :weight_lifting_man: 👨🏾‍💻
 
-Currently I'm focused on:
+_Currently I'm focused on:
 
  -  Cisco-python PCAP :globe_with_meridians:
  - building Api's in python focusing on digital security :snake:
