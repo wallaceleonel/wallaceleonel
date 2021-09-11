@@ -50,6 +50,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=ffdd54"/>
 </td>
 
 <td>
