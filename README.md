@@ -77,6 +77,7 @@ Just marathon runner :weight_lifting_man: 👨🏾‍💻
 _Currently I'm focused on:_
 
  -  Cisco-python PCAP :globe_with_meridians:
+ -  
  - building Api's in python focusing on digital security :snake:
 
  
