@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
  
  
-_I realy like to learn 🔭_
+_I realy like to learn 🔭 🔶_
 Just marathon runner :weight_lifting_man: 👨🏾‍💻 🗺️
 
 _Currently I'm focused on:_
