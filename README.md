@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <center>
 <table>
     <tr>
-        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonel&hide=html&layout=compact&theme" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallaceleonel&theme"/></td>
+        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonel&hide=html&layout=compact&theme=onedark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallaceleonel&theme=onedark"/></td>
     </tr>   
 </table>
 </center>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## _Technologies_
 
 <center>
-<table align="space-between">
+<table align="space-between" >
     <tr>
   
 <th>Linguagens</th>
@@ -82,4 +82,7 @@ _Currently I'm focused on:_
  
  - building Api's in python focusing on digital security :snake:
 
+
+
  
+
