@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## _Technologies_
 
 <center>
-<table align="space-between" >
+<table align="space-between">
     <tr>
   
 <th>Linguagens</th>
