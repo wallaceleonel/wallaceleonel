@@ -67,8 +67,8 @@ Here are some ideas to get you started:
        
  </tr>  
 </table>
-</center>
 
+</center>
  
  
 _I realy like to learn 🔭 🔶_
