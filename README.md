@@ -67,7 +67,7 @@ _Currently I'm focused on:_
 
  -  Cisco-python PCAP :globe_with_meridians: 🪐
  
- - building automation in python web  :snake:
+ -  automation  python web  :snake:
 
 <!--
 **wallaceleonel/wallaceleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
