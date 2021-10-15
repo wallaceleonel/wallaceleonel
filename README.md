@@ -8,7 +8,7 @@
  
  _welcome to my profile_
 
-   ## _Learning around : )_
+   ## _Learning around 🤖_
 <center>
 <table>
     <tr>
