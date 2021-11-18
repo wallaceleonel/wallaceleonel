@@ -28,7 +28,7 @@
 <th>Ferramentas</th>
 <th>Softwares</th>
  </tr>
-       <tr>
+    <tr>
 <td>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -72,6 +72,7 @@ _Currently I'm focused on:_
  -  Cisco PCAP :globe_with_meridians: 🪐
  
  -  python web  :snake:
+
 
 <!--
 **wallaceleonel/wallaceleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
