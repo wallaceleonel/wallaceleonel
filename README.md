@@ -73,7 +73,6 @@ _Currently I'm focused on:_
  
  -  python web  :snake:
 
-
 <!--
 **wallaceleonel/wallaceleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
