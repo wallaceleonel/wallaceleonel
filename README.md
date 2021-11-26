@@ -9,7 +9,7 @@
  
 
 
-   ##  _Learning around 🤖_
+   ##  _Learning around_ 🤖
 
 <center>
 <table>
