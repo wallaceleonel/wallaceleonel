@@ -30,8 +30,7 @@
     <tr>
   
 <th>Linguagens</th>
-<th>Ferramentas</th>
-     
+<th>Ferramentas</th>     
 <th>Softwares</th>
 
  </tr>
