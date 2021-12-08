@@ -1,7 +1,7 @@
 
 
 
- ## _My name is João Wallace Leonel_ 👨🏾‍💻 
+ ## _My name is João Wallace Leonel_  👨🏾‍💻 
  
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/) [![instagram Badge](https://img.shields.io/badge/-instagram-blueviolet?style=fat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/wall_leonel/)](https://www.instagram.com/wall_leonel/)
