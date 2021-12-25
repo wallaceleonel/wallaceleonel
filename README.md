@@ -24,7 +24,6 @@
 
 
 ## _Technologies_
-
 <center>
 <table align="space-between">
     <tr>
