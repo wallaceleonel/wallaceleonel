@@ -70,9 +70,7 @@ Just marathon runner :weight_lifting_man: 👨🏾‍💻 🗺️
 
 _Currently I'm focused on:_
 
- -  Cisco PCAP :globe_with_meridians:  🪐
- 
- -  python web  :snake:
+ -  Cisco PCAP :globe_with_meridians:  🪐 :snake:
 
 
 
