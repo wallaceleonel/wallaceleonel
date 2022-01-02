@@ -3,6 +3,7 @@
 
  ## _My name is João Wallace Leonel_ 👨🏾‍💻 
  
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
  [![instagram Badge](https://img.shields.io/badge/-instagram-blueviolet?style=fat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/wall_leonel/)](https://www.instagram.com/wall_leonel/)
 ### Print (Hello Word!)
@@ -10,7 +11,6 @@
  
 
  ##  _Learning around_ 🤖
-
 
 <center>
 <table>
@@ -33,6 +33,7 @@
  </tr>
     <tr>
 <td>
+ 
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
