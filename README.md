@@ -18,7 +18,6 @@
 </table>
 </center>
 
-
 ## _Technologies_
 
 <center>
