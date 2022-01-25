@@ -26,7 +26,6 @@
 <th>Linguagens</th>
 <th>Ferramentas</th>     
 <th>Softwares</th>
-     
  </tr>
     <tr>
 <td>
