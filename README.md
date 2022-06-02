@@ -1,5 +1,4 @@
 
-
  ## _My name is Wallace Leonel_ 👨🏾‍💻 
   
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
