@@ -1,5 +1,5 @@
 
- ## _My name is Wallace Leonel_ 👨🏾‍💻 
+ ## _My name is Wallace Leonel_  👨🏾‍💻 
  
   
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/)
@@ -55,15 +55,10 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
     <img src="https://camo.githubusercontent.com/9e84c0c211dfc29162133715e87b2e359a9301d7a8b90d0fc15299d417416569/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f70656e2b536f757263652b496e697469617469766526636f6c6f723d334441363339266c6f676f3d4f70656e2b536f757263652b496e6974696174697665266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
-    
  </td>
-       
  </tr>  
 </table>
-
-
 </center>
- 
  
 _I realy like to learn 🔭 🔶_
 
