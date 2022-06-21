@@ -17,12 +17,16 @@
     </tr>   
 </table>
 </center>
+
 ## _Technologies_
+
 <center>
 <table align="space-between">
     <tr>
 <th>Linguagens</th>
-<th>Ferramentas</th>     
+     
+<th>Ferramentas</th>    
+     
 <th>Softwares</th>
  </tr>
     <tr>
