@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </td>
 
 <td>
@@ -70,14 +71,11 @@ Just marathon runner :weight_lifting_man: 👨🏾‍💻 🗺️
 
 _Currently I'm focused on:_
 
- - C#
- - Asp.net
- - .Net core
- - .VB.Net 
+ - Aws 
+ - .Net core 
  - MongoDb
- - React
- - SQL
-
+ - Flask
+ - Angular
 <!--
 
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
